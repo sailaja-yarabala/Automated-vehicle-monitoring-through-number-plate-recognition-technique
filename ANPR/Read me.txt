@@ -1,0 +1,1 @@
+Initially run the anpr.m based on the given syntax and run it
